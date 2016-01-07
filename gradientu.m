@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This function calculates gradient of the function u(x).
+% This function contains gradients of u.
 % The reader may choose different model second order ellitpitc problems but
-% he/she has to match rhs.m, exactu.m, and gradientu.m function to the same
+% one has to match rhs.m, exactu.m, and gradientu.m function to the same
 % second order elliptic problems.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
