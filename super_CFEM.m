@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%This CFEM Matlab program computes convergence rates for H1 norm and L2
+%This super_CFEM.m Matlab program computes convergence rates for H1 norm and L2
 %norms.  It also produces surface plots for u_h, numerical FEM
 %approximation.  Readers may change different model funtions to test this
 %program by choosing differen c (see exactu.m function
